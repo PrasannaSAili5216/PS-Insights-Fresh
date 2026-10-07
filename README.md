@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 |Home Page|
 <img width="1918" height="860" alt="Privacy-Safe Cross-Company Insights home page" src="Home_Page.png" />
+=======
+>>>>>>> de1b960e10a0d354b1fd36b73680559ee91fc8ff
 
 |Deploy Page|
 <img width="1918" height="865" alt="deploy page" src="https://github.com/user-attachments/assets/4c5cb817-3890-4fc9-9448-90a446464292" />
