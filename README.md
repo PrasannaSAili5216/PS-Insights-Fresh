@@ -1,6 +1,4 @@
 
-|Home Page|
-<img width="1918" height="860" alt="Privacy-Safe Cross-Company Insights home page" src="Home_Page.png" />
 
 
 |Deploy Page|
