@@ -1,5 +1,5 @@
 |Home Page|
-<img width="1918" height="860" alt="Home " src="D:\Projects\PS-Insights-Fresh\Home_Page.png" />
+<img width="1918" height="860" alt="Home " src="https://github.com/PrasannaSAili5216/PS-Insights-Fresh/blob/main/Home_Page.png" />
 
 |Deploy Page|
 <img width="1918" height="865" alt="deploy page" src="https://github.com/user-attachments/assets/4c5cb817-3890-4fc9-9448-90a446464292" />
